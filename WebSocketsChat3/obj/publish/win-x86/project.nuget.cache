@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJETZNsaIkm6atHA2dHIwIvZc2lQqF6VP7DetlRIQpMz4ZFUrOInuEmjD+Knjs/ABpfZhuuypy434gjvMgjaGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Irina\\source\\repos\\WebSocketsChat3\\WebSocketsChat3\\WebSocketsChat3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Irina\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.5\\microsoft.netcore.app.runtime.win-x86.3.1.5.nupkg.sha512",
+    "C:\\Users\\Irina\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.5\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.5.nupkg.sha512",
+    "C:\\Users\\Irina\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.5\\microsoft.aspnetcore.app.runtime.win-x86.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

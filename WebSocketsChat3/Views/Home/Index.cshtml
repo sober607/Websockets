@@ -1,0 +1,20 @@
+﻿@{ ViewData["Title"] = "Home Page"; }
+
+<body>
+    <div>
+        <h1>Stream chat</h1>
+        <div id="userAuthorisation">
+            <input id="joinGroupButton" type="button" value="Join group" />
+            <input id="joinGroupText" type="text" value="Enter your name" />
+        </div>
+
+        <div id="sendMessageBlock">
+            <input id="sendmessage" type="button" value="Send!" />
+            <input id="messageTextInput" type="text" />
+        </div>
+
+        <ul id="chatMessages"></ul>
+
+        <script src="~/js/chatstream.js"></script>
+    </div>
+</body>
